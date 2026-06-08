@@ -1,10 +1,10 @@
-# ITT-TDF2023
+# ISF-TDF2023
 
 ## Dataset Information
 
 | Field | Value |
 | --- | --- |
-| **Title** | ITT-TDF2023 |
+| **Title** | ISF-TDF2023 |
 | **Type** | Dataset |
 | **Language** | English |
 | **License** |  |
@@ -19,7 +19,7 @@
 
 ## Overview
 
-The **ITT-TDF2023** dataset contains monthly Chinese outbound tourism demand data for **20 selected destination countries/regions**. The dataset was developed for the **Tourism Demand Forecasting Competition 2024** hosed by 45th International Symposium on Forecasting Conference and includes historical observations together with designated validation and evaluation periods extending to **July 2024**.
+The **ISF-TDF2023** dataset contains monthly Chinese outbound tourism demand data for **20 selected destination countries/regions**. The dataset was developed for the **Tourism Demand Forecasting Competition 2024** hosed by 45th International Symposium on Forecasting Conference and includes historical observations together with designated validation and evaluation periods extending to **July 2024**.
 
 The data span multiple tourism market regimes, including the pre-pandemic period, the COVID-19 disruption period, and the post-pandemic recovery phase, providing a challenging benchmark for tourism demand forecasting under significant structural changes and demand shocks.
 
@@ -61,7 +61,7 @@ The period from **August 2023 to July 2024** serves as the **official evaluation
 
 ## ITT-TDF2023 Evaluation Metric
 
-Forecasting performance in the **ITT-TDF2023** dataset is evaluated using the **Mean Absolute Scaled Error (MASE)**, a scale-independent forecasting accuracy measure that enables fair comparisons across destinations with substantially different tourism demand volumes.
+Forecasting performance in the **ISF-TDF2023** dataset is evaluated using the **Mean Absolute Scaled Error (MASE)**, a scale-independent forecasting accuracy measure that enables fair comparisons across destinations with substantially different tourism demand volumes.
 
 Unlike percentage-based metrics, MASE remains robust when actual observations contain very small values or zeros, which are common in tourism demand series affected by major disruptions such as the COVID-19 pandemic. As a result, MASE is particularly suitable for evaluating forecasting performance across heterogeneous tourism markets and periods characterized by structural changes.
 
@@ -129,6 +129,12 @@ If you use this dataset in academic research, please cite the corresponding Comp
     year={2026},
     publisher={Elsevier}
 }
+
+## Disclaimer
+
+This dataset was collected, compiled, and processed in support of the **45th International Symposium on Forecasting (ISF 2025)** forecasting competition and related research activities. The dataset is provided solely for research, educational, and benchmarking purposes. While reasonable efforts have been made to ensure the accuracy and quality of the data, the publisher makes no warranties regarding its completeness, correctness, or fitness for any particular purpose. All intellectual property rights related to the original data sources remain with their respective owners. The inclusion of data in this repository does not imply any transfer of ownership rights.
+
+If you are the owner of any data source included in this dataset and have concerns regarding its use, distribution, copyright, licensing, privacy, or other related matters, please contact the dataset owner. Upon verification of the request, the relevant data will be reviewed and, where appropriate, removed or updated in a timely manner.
 
 ## Contact
 
