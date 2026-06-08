@@ -4,18 +4,18 @@
 
 | Field | Value |
 | --- | --- |
-| **Title** | Competition2024 |
+| **Title** | ITT-TDF2023 |
 | **Type** | Dataset |
 | **Language** | English |
 | **License** |  |
 | **Data Status** | Static |
 | **Update Frequency** | No |
-| **Date Published** | 2026-04-20 |
-| **Date Updated** | 2026-04-20 |
+| **Date Published** | 2026-05-20 |
+| **Date Updated** | 2026-06-02 |
 | **Portal** | https://github.com/tulip-lab/open-data |
-| **URL** | https://github.com/tulip-lab/open-data/tree/master/Competition2024 |
+| **URL** | https://github.com/tulip-lab/open-data/tree/master/ITT-TDF2023 |
 | **Publisher** | TULIP Lab |
-| **Point of Contact** | A/Prof. Gang Li |
+| **Point of Contact** | Prof. Gang Li |
 
 ## Overview
 
@@ -115,7 +115,7 @@ The dataset intentionally covers multiple tourism market regimes, including pre-
 
 If you use this dataset in academic research, please cite the corresponding Competition2024 dataset and associated publications from TULIP Lab.
 
-Yishuo Zhang, Baobao Song, Xin Li, Rob Law, and Gang Li (2026). [Imputation recovery tourism demand forecasting.](https://doi.org/10.1016/j.tourman.2020.104100). **Annals of Tourism Research**, Vol 118, Feb 2026.
+* Yishuo Zhang, Baobao Song, Xin Li, Rob Law, and Gang Li (2026). [Imputation recovery tourism demand forecasting.](https://doi.org/10.1016/j.tourman.2020.104100). **Annals of Tourism Research**, Vol 118, Feb 2026.
 
 
 `BibTex` information:
@@ -134,9 +134,9 @@ Yishuo Zhang, Baobao Song, Xin Li, Rob Law, and Gang Li (2026). [Imputation reco
 
 **TULIP Lab**
 
-- Website: http://www.tulip.org.au/
+- Website: https://www.tulip.academy/
 - GitHub: https://github.com/tuliplab
-- Contact: A/Prof. Gang Li
+- Contact: Prof. Gang Li
 
 
 
